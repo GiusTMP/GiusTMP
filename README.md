@@ -1,8 +1,17 @@
 # **Hi im Giuseppe, welcome to my profile!**🦝
 ---
-## I'm in my second year of computer science💻 
- 
-## Here, I want to publish my projects and my university notes.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read tech book and inquire about AI
 
 ---
 ## Second Year Notes:
