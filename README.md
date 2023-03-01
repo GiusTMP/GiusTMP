@@ -54,12 +54,20 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
   <tr>
     <td align = "center">Sistemi Operativi II</td>
-    <td align = "center">---------</td>
-    <td align = "center">---------</td>
+    <td align = "center"><a style="display:block;" href="http://example.com"> 
+        <div> 
+            [x] 
+        </div> 
+    </td>
+    <td align = "center">In progress</td>
   </tr>
   <tr>
     <td align = "center">Basi di Dati II</td>
-    <td align = "center">---------</td>
+    <td align = "center"><a style="display:block;" href="http://example.com"> 
+        <div> 
+            [x] 
+        </div> 
+    </td>
     <td align = "center">In progress</td>
   </tr>
   <tr>
