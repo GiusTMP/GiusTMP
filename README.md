@@ -13,5 +13,5 @@
 
 <a href="https://github.com/GiusTMP/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiusTMP&show_icons=true&theme=merko" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiusTMP&hide_progress=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiusTMP&hide_progress=true" />
 </a>
