@@ -86,7 +86,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 [comment]: <##LANGUAGE AND STATS##> (##LANGUAGE AND STATS##)
 
 ## **Languages and stats**
-<div>
+<div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -99,7 +99,3 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiusTMP&layout=compact&theme=merko" />
 </a>
 
----
-<p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-</p>
