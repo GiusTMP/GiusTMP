@@ -19,7 +19,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 [comment]: <##TABELLA APPUNTI UNIVERSITA'##> (##TABELLA APPUNTI UNIVERSITA'##)
 
-<table>
+<table align = "center">
   <tr>
     <td colspan = "3" align = "center"><em>Primo Semestre</td>
   </tr>
