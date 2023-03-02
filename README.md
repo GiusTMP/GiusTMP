@@ -29,7 +29,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
   <tr>
     <td align = "center">Sistemi Operativi I</td>
-    <td align = "center"><a style="display:block;" href="http://example.com"> 
+    <td align = "center"><a style="display:block;" href="https://github.com/GiusTMP/University-Notes/raw/main/Secondo%20anno/Primo%20semestre/Sistemi%20Operativi%20I/Sistemi%20operativi%20I.pdf"> 
         <div> 
             [x] 
         </div> 
