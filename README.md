@@ -95,17 +95,8 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 
 <a href="https://github.com/GiusTMP/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiusTMP&show_icons=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiusTMP&show_icons=true&theme=merko&count_private=true" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiusTMP&layout=compact&theme=merko" />
 </a>
 
----
 
-<div>
-  <tr>
-    <td align = "center">Progettazione di Algoritmi</td>
-  </tr>
-  <tr>
-    <td align = "left">Padefe</td>
-  </tr>
-</div>
