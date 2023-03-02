@@ -100,6 +100,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 </a>
 
 ---
+
 <tr>
   <td align = "center"> dajdjas</td>
 </tr>
