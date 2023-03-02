@@ -31,7 +31,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
     <td align = "center">Sistemi Operativi I</td>
     <td align = "center"><a style="display:block;" href="https://github.com/GiusTMP/University-Notes/raw/main/Secondo%20anno/Primo%20semestre/Sistemi%20Operativi%20I/Sistemi%20operativi%20I.pdf"> 
         <div> 
-            [x] 
+            PDF 
         </div> 
     </td>
     <td align="center">Ready</td>
@@ -56,16 +56,16 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
     <td align = "center">Sistemi Operativi II</td>
     <td align = "center"><a style="display:block;" href="http://example.com"> 
         <div> 
-            [x] 
+            PDF 
         </div> 
     </td>
     <td align = "center">In progress</td>
   </tr>
   <tr>
     <td align = "center">Basi di Dati II</td>
-    <td align = "center"><a style="display:block;" href="http://example.com"> 
+    <td align = "center"><a style="display:block;" href="https://github.com/GiusTMP/University-Notes/raw/main/Secondo%20anno/Secondo%20semestre/Basi%20di%20Dati%20II/Basi%20di%20Dati%20II.pdf"> 
         <div> 
-            [x] 
+            PDF 
         </div> 
     </td>
     <td align = "center">In progress</td>
