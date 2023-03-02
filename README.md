@@ -101,5 +101,3 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
