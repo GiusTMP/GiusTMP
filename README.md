@@ -100,6 +100,6 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 </a>
 
 ---
-<center>
-  jerg9eg
-</center>
+<p align="center">
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
