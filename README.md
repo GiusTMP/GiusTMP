@@ -1,3 +1,4 @@
+[comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 ---
 <div align="center">
@@ -16,11 +17,11 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 ---
 ## Second Year Notes:
 
-[comment]: <> (##TABELLA APPUNTI UNIVERSITA'##)
+[comment]: <##TABELLA APPUNTI UNIVERSITA'##> (##TABELLA APPUNTI UNIVERSITA'##)
 
 <table>
   <tr>
-    <td colspan="3" align = "center"><em>Primo Semestre</td>
+    <td colspan = "3" align = "center"><em>Primo Semestre</td>
   </tr>
   <tr>
     <td align = "center"><strong>Materia</td>
@@ -82,7 +83,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
 </table>
 
-[comment]: <> (##LANGUAGE AND STATS##)
+[comment]: <##LANGUAGE AND STATS##> (##LANGUAGE AND STATS##)
 
 ## **Languages and stats**
 <div>
