@@ -99,6 +99,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiusTMP&layout=compact&theme=merko" />
 </a>
 
+---
 <center>
   jerg9eg
 </center>
