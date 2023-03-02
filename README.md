@@ -101,6 +101,6 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-<tr>
-  <td align = "center"> dajdjas</td>
-</tr>
+<div>
+  <td align = "right">dajdjas</td>
+</div>
