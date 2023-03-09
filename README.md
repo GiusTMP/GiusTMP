@@ -3,6 +3,10 @@
 
 <script type="text/python" src="giustmp/prova.py"></script>
 
+<script type="text/javascript">
+  alert("This alert box was called with the onload event");
+</script>
+
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
