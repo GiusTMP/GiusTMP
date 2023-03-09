@@ -1,9 +1,7 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-<script>
-  alert("This alert box was called with the onload event");
-</script>
+<script src="D:/GiusTMP/prova.py"></script>
 
 ---
 <div align="center">
