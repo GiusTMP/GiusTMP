@@ -21,12 +21,13 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 <table align = "center">
   <tr>
-    <td colspan = "3" align = "center"><em>Primo Semestre</td>
+    <td colspan = "4" align = "center"><em>Primo Semestre</td>
   </tr>
   <tr>
     <td align = "center"><strong>Materia</td>
     <td align = "center"><strong>Appunti</td>
     <td align = "center"><strong>Stato</td>
+    <td align = "center"><strong>Ultima modifica</td>
   </tr>
   <tr>
     <td align = "center">Sistemi Operativi I</td>
@@ -36,6 +37,21 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
         </div> 
     </td>
     <td align="center">Ready</td>
+    <td align="center">
+      <script> 
+          var content_holder = "";
+          value = "<p>Hello</p><a href='http://w3c.org'>W3C</a>"
+          for (var i = 0; i < value.length; i++) {
+            if (value.charAt(i) === '>') {
+              continue;
+              while (value.charAt(i) != '<') {
+                content_holder += value.charAt(i);
+            }
+          }
+        }
+        console.log("cos")
+      </script>
+    </td>
   <tr>
     <td align = "center">Basi di Dati I</td>
     <td align = "center">---------</td>
