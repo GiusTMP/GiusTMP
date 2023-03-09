@@ -1,7 +1,7 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-|<script>document.write('colHeader1')</script>  |
+|<script>console.log('ciao')</script>  |
 
 ---
 
