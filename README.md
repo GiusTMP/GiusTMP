@@ -1,8 +1,6 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-<script src="GiusTMP/prova.js"></script>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -110,5 +108,4 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiusTMP&layout=compact&theme=merko" />
 </a>
 
----
 
