@@ -1,7 +1,7 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-<script src="prova.js"></script>
+<script src="D:/GiusTMP/prova.js"></script>
 
 
 ---
