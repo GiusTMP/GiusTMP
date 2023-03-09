@@ -1,7 +1,8 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-<script src="D:/GiusTMP/prova.py"></script>
+<script src="prova.js"></script>
+
 
 ---
 <div align="center">
