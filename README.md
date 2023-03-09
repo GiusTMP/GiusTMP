@@ -1,5 +1,8 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
+
+```{python, file='prova.py'}```
+
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
