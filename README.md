@@ -49,7 +49,6 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
             }
           }
         }
-        console.log("cos")
       </script>
     </td>
   <tr>
