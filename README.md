@@ -109,7 +109,5 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 </a>
 
 <script>
-      const myContent = document.querySelector("div");
-      const shadowroot = myContent.createShadowRoot();
       shadowroot.innerHTML ='<h2>Inserted Heading</h2> <content select="p"></content>';
 </script>
