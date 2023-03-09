@@ -109,3 +109,4 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 </a>
 
 
+take me to[https://github.com/GiusTMP/University-Notes/raw/main/Secondo%20anno/Primo%20semestre/Sistemi%20Operativi%20I/Sistemi%20operativi%20I.pdf](#shadow-root)
