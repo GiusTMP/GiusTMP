@@ -1,7 +1,7 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-<script type="text/python" src="prova.py"></script>
+<script type="text/python" src="giustmp/prova.py"></script>
 
 ---
 <div align="center">
