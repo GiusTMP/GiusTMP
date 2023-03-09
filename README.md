@@ -108,4 +108,3 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiusTMP&layout=compact&theme=merko" />
 </a>
 
-<a class="color-fg-mutedtext-right" href="/GiusTMP/University-Notes/tree/6282b4604c55eee0625d6c9aa24489fcd8996a89/Secondo%20anno/Secondo%20semestre/Basi%20di%20Dati%20II">jjjj</a>
