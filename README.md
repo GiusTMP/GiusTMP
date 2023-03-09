@@ -1,10 +1,8 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-<script src="D:\GiusTMP\prova.js"></script>
-
-
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -41,34 +39,24 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
         </div> 
     </td>
     <td align="center">Ready</td>
-    <td align="center">
-      <script> 
-          var content_holder = "";
-          value = "<p>Hello</p><a href='http://w3c.org'>W3C</a>"
-          for (var i = 0; i < value.length; i++) {
-            if (value.charAt(i) === '>') {
-              continue;
-              while (value.charAt(i) != '<') {
-                content_holder += value.charAt(i);
-            }
-          }
-        }
-      </script>
-    </td>
+    <td align="center"></td>
   <tr>
     <td align = "center">Basi di Dati I</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align = "center">Algebra</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align = "center">Calcolo delle Probabilità</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
+    <td align="center"></td>
   </tr>
     <td colspan="3" align = "center"><em>Secondo Semestre</td>
   </tr>
@@ -80,6 +68,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
         </div> 
     </td>
     <td align = "center">In progress</td>
+    <td align="center">09/03/2023</td>
   </tr>
   <tr>
     <td align = "center">Basi di Dati II</td>
@@ -89,16 +78,19 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
         </div> 
     </td>
     <td align = "center">In progress</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align = "center">Reti di Elaboratori</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align = "center">Progettazione di Algoritmi</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
+    <td align="center"></td>
   </tr>
 </table>
 
