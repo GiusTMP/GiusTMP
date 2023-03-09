@@ -1,7 +1,7 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-```{python, file='prova.py'}```
+<script type="text/python" src="prova.py"></script>
 
 ---
 <div align="center">
