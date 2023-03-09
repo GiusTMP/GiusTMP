@@ -1,7 +1,7 @@
 [comment]: <##INTRO##> (##INTRO##)
 # Hi im Giuseppe, welcome to my profile!🦝
 
-<script src="D:GiusTMP/prova.js"></script>
+<script src="GiusTMP/prova.js"></script>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
