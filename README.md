@@ -1,4 +1,5 @@
-[comment]: <##INTRO##> (##INTRO##)
+[comment]: ##INTRO## "##INTRO##"
+
 # Hi im Giuseppe, welcome to my profile!🦝
 
 <div align="center">
@@ -8,6 +9,7 @@
 ---
 
 ### :woman_technologist: About Me :
+
 I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
 - :seedling: Exploring Technical Content Writing.
@@ -15,9 +17,10 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: In my free time, I read tech book and inquire about AI
 
 ---
+
 ## Second Year Notes:
 
-[comment]: <##TABELLA APPUNTI UNIVERSITA'##> (##TABELLA APPUNTI UNIVERSITA'##)
+[comment]: <##TABELLA APPUNTI UNIVERSITA'##> "##TABELLA APPUNTI UNIVERSITA'##"
 
 <table align = "center">
   <tr>
@@ -92,9 +95,10 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   </tr>
 </table>
 
-[comment]: <##LANGUAGE AND STATS##> (##LANGUAGE AND STATS##)
+[comment]: <##LANGUAGE AND STATS##> "##LANGUAGE AND STATS##"
 
 ## **Languages and stats**
+
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -102,9 +106,16 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-
 <a href="https://github.com/GiusTMP/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiusTMP&show_icons=true&theme=merko&count_private=true" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiusTMP&layout=compact&theme=merko" />
 </a>
 
+<script>
+      function saluta(name = "Giuseppe") {
+        title.innerHTML = `Ciao ${name}`;
+      }
+      button.addEventListener("click", () => {
+        saluta(nome.value);
+      });
+</script>
