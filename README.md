@@ -40,36 +40,36 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
         </div> 
     </td>
     <td align="center">Ready</td>
-    <td align="center"></td>
+    <td align="center">---</td>
   <tr>
     <td align = "center">Basi di Dati I</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
-    <td align="center"></td>
+    <td align="center">---</td>
   </tr>
   <tr>
     <td align = "center">Algebra</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
-    <td align="center"></td>
+    <td align="center">---</td>
   </tr>
   <tr>
     <td align = "center">Calcolo delle Probabilità</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
-    <td align="center"></td>
+    <td align="center">---</td>
   </tr>
     <td colspan="3" align = "center"><em>Secondo Semestre</td>
   </tr>
   <tr>
     <td align = "center">Sistemi Operativi II</td>
-    <td align = "center"><a style="display:block;" href="http://example.com"> 
+    <td align = "center"><a style="display:block;" href="https://github.com/GiusTMP/University-Notes/blob/main/Secondo%20anno/Secondo%20semestre/Sistemi%20Operativi%20II/Sistemi%20operativi%20II.pdf"> 
         <div> 
             PDF 
         </div> 
     </td>
     <td align = "center">In progress</td>
-    <td align="center">09/03/2023</td>
+    <td align="center">22/03/2023</td>
   </tr>
   <tr>
     <td align = "center">Basi di Dati II</td>
@@ -79,19 +79,19 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
         </div> 
     </td>
     <td align = "center">In progress</td>
-    <td align="center"></td>
+    <td align="center">22/03/2023</td>
   </tr>
   <tr>
     <td align = "center">Reti di Elaboratori</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
-    <td align="center"></td>
+    <td align="center">---</td>
   </tr>
   <tr>
     <td align = "center">Progettazione di Algoritmi</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
-    <td align="center"></td>
+    <td align="center">---</td>
   </tr>
 </table>
 
