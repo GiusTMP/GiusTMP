@@ -59,7 +59,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
     <td align = "center">---------</td>
     <td align="center">---</td>
   </tr>
-    <td colspan="3" align = "center"><em>Secondo Semestre</td>
+    <td colspan="4" align = "center"><em>Secondo Semestre</td>
   </tr>
   <tr>
     <td align = "center">Sistemi Operativi II</td>
