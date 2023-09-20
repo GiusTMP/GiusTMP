@@ -91,7 +91,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
     <td align = "center">Progettazione di Algoritmi</td>
     <td align = "center">---------</td>
     <td align = "center">---------</td>
-    <td align="center">--</td>
+    <td align="center">---</td>
   </tr>
 </table>
 
